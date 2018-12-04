@@ -23,9 +23,3 @@ def login(apicIp, username, password):
     else:
         print('Login failed. The server responded with error:' + repr(apicResponse.status_code))
 
-    
-    
-    
-
-login('sandboxapicdc.cisco.com', 'admin', 'ciscopsdt')
-
