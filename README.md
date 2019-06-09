@@ -1,2 +1,2 @@
 # aciThings
-Tools for interacting with Cisco's ACI
+Pyhton things for messing with the Cisco ACI API 
